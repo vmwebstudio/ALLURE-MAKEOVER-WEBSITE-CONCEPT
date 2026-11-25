@@ -1,0 +1,22 @@
+# Allure Makeovers
+
+> A beauty and makeover brand website concept showcasing beauty services, bridal inspiration, and professional makeup artistry.
+
+## Website
+
+- Homepage: https://allure-makeover-website-concepts.pages.dev/
+
+## Purpose
+
+This website is a demonstration concept created by VM Web Studio. It is not the official website of a verified business.
+
+## Content
+
+- Beauty and makeover inspiration
+- Bridal makeup inspiration
+- Makeup services and brand presentation
+- Contact and enquiry information
+
+## Attribution
+
+Website concept by VM Web Studio.
