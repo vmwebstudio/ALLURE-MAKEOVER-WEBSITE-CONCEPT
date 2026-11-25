@@ -13,6 +13,18 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  rel="preload"
+  as="image"
+  href="https://images.pexels.com/photos/29258328/pexels-photo-29258328.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  imagesrcset="
+    https://images.pexels.com/photos/29258328/pexels-photo-29258328.jpeg?auto=compress&cs=tinysrgb&w=480 480w,
+    https://images.pexels.com/photos/29258328/pexels-photo-29258328.jpeg?auto=compress&cs=tinysrgb&w=768 768w,
+    https://images.pexels.com/photos/29258328/pexels-photo-29258328.jpeg?auto=compress&cs=tinysrgb&w=1200 1200w
+  "
+  imagesizes="(max-width: 850px) 100vw, 50vw"
+  fetchpriority="high"
+>
 
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap">
 
@@ -81,7 +93,7 @@ textarea {
 }
 
 .eyebrow {
- color: var(--gold-light);
+color: var(--gold-text);
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 3px;
@@ -479,6 +491,9 @@ header {
 .academy {
   background: var(--espresso);
   color: var(--white);
+}
+.academy .eyebrow {
+  color: var(--gold-light);
 }
 
 .academy-grid {
@@ -1178,7 +1193,7 @@ footer {
 
     <div class="section-heading">
 
-      <div class="eyebrow">Our Signature Services</div>
+            <div class="eyebrow">Our Signature Services</div>
 
       <h2 class="section-title">
         Beauty for Every Occasion
@@ -1352,7 +1367,7 @@ footer {
       </div>
 
 
-      <!-- PORTFOLIO THREE -->
+         <!-- PORTFOLIO THREE -->
 
       <div class="portfolio-item">
 
