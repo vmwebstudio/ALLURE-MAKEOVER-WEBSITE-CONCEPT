@@ -4,7 +4,7 @@
 
 ## Website
 
-- Homepage: https://allure-makeover-website-concepts.pages.dev/
+- [Homepage](https://allure-makeover-website-concept.pages.dev/)
 
 ## Purpose
 
